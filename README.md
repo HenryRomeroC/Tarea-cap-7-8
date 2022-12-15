@@ -23,7 +23,7 @@ Desarrollar los ejercicios propuestos para la unidad 7 y 8 correspondientes a lo
 
 
 
-![image](https://user-images.githubusercontent.com/116819100/207766193-8ee1610a-72c4-4b77-a4a8-5fe86ddb7e85.png)
+
 
 
 
@@ -33,34 +33,25 @@ Desarrollar los ejercicios propuestos para la unidad 7 y 8 correspondientes a lo
 
 ![image](https://user-images.githubusercontent.com/116819100/207766164-4cdf609f-4bd1-489a-aa0f-44160d6faa9a.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-----------------------------------------------------
+--------------------------------------------------
 
 **3.RESOLUCIÓN DE LOS EJERCICIOS**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 -------------------------------------------------------------------------
 
